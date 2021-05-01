@@ -4,7 +4,7 @@
 
 [![QQbot](https://img.shields.io/badge/QQbot-%E8%BD%AF%E5%85%94%E5%A5%B6%E7%B3%96-orange)](https://github.com/cheng2924070927/QQbot)
 [![Plug-in author](https://img.shields.io/badge/%E6%8F%92%E4%BB%B6%E4%BD%9C%E8%80%85-%E5%B0%8F%E5%87%AF%E5%A4%A7%E5%A4%A7-ff69b4)](https://wpa.qq.com/msgrd?v=3&uin=1544545655&site=qq&menu=yes)
-[![The official website](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-JKJPRO.cn-9cf)](http://JKJPRO.cn/)
+[![The official website](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-JKJPRO.cn-9cf)](http://JKJPRO.cn/)
 [![Donation sponsorship](https://img.shields.io/badge/Contributions-Sponsor-blue)](https://lovek.me/donate/)
 [![QQ group](https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-826967547-yellow)](https://jq.qq.com/?_wv=1027&k=5lp31Jm)
 
@@ -49,7 +49,7 @@
 ![JKJPRO](https://cdn.jsdelivr.net/gh/cheng2924070927/PicGo/img/JKJPROCN2.PNG)
 
 
-## 官网
+## 网站
 
 - http://JKJPRO.cn
 
@@ -63,4 +63,4 @@
 - [通过微信支付捐款](https://lovek.me/donate/)
 - [通过QQ支付捐款](https://lovek.me/donate/)
 
-> Blog [@lovek.me](https://lovek.me) · GitHub [@Lovely God](https://github.com/cheng2924070927) · Twitter [@Lovely God](https://twitter.com/lovelygod3) · Telegram Channel [@lovelygdo3](https://t.me/lovelygdo3)
+> Blog [@lovek.me](https://lovek.me) · GitHub [@Lovely God](https://github.com/LovelyGod3) · Twitter [@Lovely God](https://twitter.com/lovelygod3) · Telegram Channel [@Lovely God](https://t.me/lovekme)
