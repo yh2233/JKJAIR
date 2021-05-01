@@ -1,9 +1,3 @@
-* 插件名：JKJAir / JKJPRO
-* 版本号：v1.0.0 / 6.3.0
-* SDK 版本：V3
-* 交流群：826967547
-* 插件下载链接在底部哦！
-
 <h1 align="center">JKJPRO / JKJAir</h1>
 
 > A robot that supports 50+ sign-in service, with one button sign-in and one button adoration, has rich functions
@@ -87,13 +81,13 @@
 
 - JKJPRO：https://wwa.lanzous.com/iq1oHoom82f
 
-# 🍰面向用户开发：
+## 🍰面向用户开发：
 
 > 欢迎所有对编写QQ机器人插件有兴趣的小可爱们参与到JKJ插件的开发当中，小可爱们可以吧自己的想法或自己写的一些小功能加入插件中，成为JKJ插件的一部分，不远的将来，JKJ插件的开发也有您的一份功劳
 >> 下方是我们提供的易语言SDK，您可以点击下载
 易语言SDK（自备精易模块8.0.5）：https://wwa.lanzous.com/iq1oHoom82f
 
-# 🍰开发者赞助计划
+## 🍰开发者赞助计划
 
 > 凡是有兴趣参与、有能力实践JKJ插件开发的小可爱们，如果缺少服务器调试应用，可找我免费领取腾讯云服务器，以表示开发鼓励。
 （服务器是我们无偿提供，只愿您能对JKJ插件做出贡献，单纯白嫖服务器者请绕道）
