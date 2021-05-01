@@ -2,13 +2,17 @@
 
 > A robot that supports 50+ sign-in service, with one button sign-in and one button adoration, has rich functions
 
-[![The official website](https://img.shields.io/badge/网站-JKJPRO.cn-or?style=flat-square&logo=html5)](http://JKJPRO.cn/)[![JKJPRO: v6.3.0](https://img.shields.io/github/v/release/LovelyGod3/JKJPRO?label=JKJPRO&style=flat-square&logo=github)](https://github.com/LovelyGod3/JKJPRO/)[![cs](https://img.shields.io/badge/QQ群-2924070927-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5xYS9qX)[![QQbot: 软兔奶糖](https://img.shields.io/badge/QQbot-软兔奶糖-red?style=flat-square&logo=tencent-qq)](http://lovek.top/)[![Plug-in author](https://img.shields.io/badge/插件作者-小凯大大-blue?style=flat-square&logo=tencent-qq)](https://wpa.qq.com/msgrd?v=3&uin=1544545655&site=qq&menu=yes)[![Plug-in author](https://img.shields.io/badge/Telegram群-Entertainment circle-or?style=flat-square&logo=tencent-qq)](https://t.me/lovekme)
+[![The official website](https://img.shields.io/badge/网站-JKJPRO.cn-or?style=flat-square&logo=html5)](http://JKJPRO.cn/)[![JKJPRO: v6.3.0](https://img.shields.io/github/v/release/LovelyGod3/JKJPRO?label=JKJPRO&style=flat-square&logo=github)](https://github.com/LovelyGod3/JKJPRO/)[![cs](https://img.shields.io/badge/QQ群-2924070927-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5xYS9qX)[![QQbot: 软兔奶糖](https://img.shields.io/badge/QQbot-软兔奶糖-red?style=flat-square&logo=tencent-qq)](http://lovek.top/)
 
-##🍰 插件介绍
+[![Plug-in author](https://img.shields.io/badge/插件作者-小凯大大-blue?style=flat-square&logo=tencent-qq)](https://wpa.qq.com/msgrd?v=3&uin=1544545655&site=qq&menu=yes)
+
+[![Plug-in author](https://img.shields.io/badge/Telegram群-Entertainment—_circle-or?style=flat-square&logo=tencent-qq)](https://t.me/lovekme)
+
+## 🍰 插件介绍
 
 > JKJPRO是一款功能强大、可自定义性强、长期稳定更新的QQ机器人插件。层出不穷的功能与精美的UI界面符合大多数玩家的要求
 
-##🍰 插件背景
+## 🍰 插件背景
 
 🔖 最初——插件基于IRQQ（CleverQQ）框架开发，后来作者退网
 
@@ -71,8 +75,8 @@
 
 - https://www.showdoc.com.cn/god
 
-###🍭QQ群：826967547
+### 🍭QQ群：826967547
 
-###🍭Telegram群：https://t.me/lovekme
+### 🍭Telegram群：https://t.me/lovekme
 
 > Blog [@lovek.me](https://lovek.me) · GitHub [@Lovely God](https://github.com/LovelyGod3) · Twitter [@Lovely God](https://twitter.com/lovelygod3) · Telegram Channel [@Entertainment circle](https://t.me/lovekme)
