@@ -28,7 +28,7 @@
 
 ## 🍰 JKJAir版本演示截图
 
-![JKJPRO](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/JKJAIRJT.PNG)
+![JKJPRO](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/airkfb1.PNG)
 
 ## 🍰 JKJPRO版本介绍
 
