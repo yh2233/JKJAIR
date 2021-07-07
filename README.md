@@ -1,14 +1,27 @@
-<h1 align="center">JKJAIR</h1>
+<center><h1>JKJAIR / <s>&nbsp;&nbsp;JKJPRO&nbsp;&nbsp;</s></h1></center>
 
 > A robot that supports 50+ sign-in service, with one button sign-in and one button adoration, has rich functions
 
-[![The official website](https://img.shields.io/badge/网站-JKJPRO.cn-or?style=flat-square&logo=html5)](http://JKJPRO.cn/) [![JKJPRO: v6.3.0](https://img.shields.io/github/v/release/LovelyGod3/JKJPRO?label=JKJPRO&style=flat-square&logo=github)](https://github.com/LovelyGod3/JKJPRO/) [![QQq](https://img.shields.io/badge/QQ群-826967547-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5xYS9qX) [![QQbot: 软兔奶糖](https://img.shields.io/badge/QQbot-软兔奶糖-red?style=flat-square&logo=tencent-qq)](http://lovek.top/) [![TGq](https://img.shields.io/badge/Telegram群-Entertainment_circle-or?style=flat-square&logo=Telegram)](https://t.me/lovekme)
+[![The official website](https://img.shields.io/badge/网站-JKJPRO.cn-or?style=flat-square&logo=html5)](http://JKJPRO.cn/) [![JKJPRO: v6.3.0](https://img.shields.io/github/v/release/yh2233/JKJPRO?label=JKJAIR&style=flat-square&logo=github)](https://github.com/yh2233/JKJPRO/) [![QQq](https://img.shields.io/badge/QQ群-826967547-blue?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5xYS9qX) [![QQbot: 软兔奶糖](https://img.shields.io/badge/QQbot-软兔奶糖-red?style=flat-square&logo=tencent-qq)](http://lovek.top/) [![TGq](https://img.shields.io/badge/TG群-Entertainment_circle-or?style=flat-square&logo=Telegram)](https://t.me/lovekme) [![lts](https://img.shields.io/badge/在线聊天-Entertainment_circle-or?style=flat-square&logo=Telegram)](https://t.me/lovekme)
 
-## 🍰 插件介绍
+## 🔨&nbsp;项目重构通知
 
-> JKJPRO是一款功能强大、可自定义性强、长期稳定更新的QQ机器人插件。层出不穷的功能与精美的UI界面符合大多数玩家的要求
 
-## 🍰 插件背景
+> ### 简介：
+> 自2018年以来，JKJPRO已稳定更新了3年余载，却一直存在一个问题，他人恶意破解与抓包封装好的API接口。授权站也曾经遭受过DDoS流量。因此，出于安全的考虑，也是为了提升用户体验，我们决定，停更旧版JKJPRO，开启新一代的JKJAIR版本
+
+> **JKJAIR与JKJPRO具体有什么区别？**
+> <br>答：JKJPRO采用本地消息处理本地数据存储，API失效或功能更新都需要用户手动替换插件更新，操作繁琐。不过，对于新一代的JKJAIR插件来说，一切问题都将得到解决
+
+![](https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/524.PNG)
+
+## 💖 插件简介
+
+
+> JKJAIR 是一款功能强大、可自定义性强、云端与客户端并存、长期稳定更新的多功能QQ机器人插件，层出不穷的功能<s>&nbsp;&nbsp;与精美的UI界面&nbsp;&nbsp;</s> (暂时维护以实现功能为主) 符合大多数玩家的要求
+
+## 🎬 插件背景
+
 
 🔖 最初——插件基于IRQQ（CleverQQ）框架开发，后来作者退网
 
@@ -18,23 +31,15 @@
 
 🔖 最后——插件移植Cat框架，但框架经常宏机，果断放弃
 
-🎨 当前——插件移植先驱框架-Pc协议（无明显问题，超级稳定）
+🚩 **当前——兼容多个主流框架（先驱框架、Cat框架，Ono框架）**
 
-🚧 未来——打算将Air版本与Pro版本合二为一，插件准备云端化，框架仅仅用来收发消息，一切数据由云端处理，这么做还可以减少用户服务器的负载。插件仅需要云端进行更新，用户再也不用自己手动更新插件了。更改插件后缀名即可适配所有框架（正在开发当中）
+~~&nbsp;&nbsp;🚧 未来&nbsp;&nbsp;~~（已经实现✔️）—— 打算将Air版本与Pro版本合二为一，插件准备云端化，框架仅仅用来收发消息，一切数据由云端处理，这么做还可以减少用户服务器的负载。插件仅需要云端进行更新，用户再也不用自己手动更新插件了。更改插件后缀名即可适配所有主流框架
 
-## 🍰 JKJAir版本介绍
+## 🚀 JKJAIR介绍 (部分)
 
-✨最近新发布的测试版本，与Pro版本相比，Air版本采用最新的云端处理方式，相对于Pro版本显得更加人性化，目前正在努力开发Air版，将来打算与Pro版本合二为一。自动程序一键安装，容易上手。可自定义指令与设置管理员QQ等操作，简洁好用，Air版插件目前可**免费使用，无任何广告**
+> ✨AIR采用云端技术基于PRO二次开发，其特性为数据安全、不需要高配服务器、功能齐全、自定义性强、可分群授权分好友授权，可自定义词库等等，群管功能完善、接入腾讯AI，定期维护更新，提供24小时技术支持，自动程序一键安装
 
-## 🍰 JKJAir版本演示截图
-
-![JKJPRO](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/airkfb1.PNG)
-
-## 🍰 JKJPRO版本介绍
-
-✨精心设计的UI界面、功能齐全、自定义性强、可分群授权，可自定义词库、可定时推送，群管功能完善、接入腾讯AI，定期维护更新，提供24小时技术支持，自动程序一键安装，容易上手
-
-✅ 申请二维码：使用TIM扫码登录QQ，或渡劫QQ应用（太极、Xposed、Magisk）后安装[绿豆模块](https://lvdq.lanzoux.com/b00oeiuwj)(密码：123456)，直接用正式版QQ扫码登录，Pro版本采用本地加密Cookie数据，Air版本采用端到端加密，无需担心任何安全风险
+✅ 申请二维码：使用TIM扫码登录QQ，或渡劫QQ应用后安装绿豆模块直接用正式版QQ扫码登录，Pro版本采用本地加密Cookie数据，Air版本采用端到端加密，无需担心任何安全风险
 
 ✅ 腾讯签到：扫码登录QQ后，发送"签到"指令可一键完成50多项的QQ签到任务（整个QQ的签到任务基本都包括在内），解放双手不是梦
 
@@ -52,7 +57,6 @@
 
 ✅ 自动任务：自动签到、自动打卡、自动秒赞、自动秒评、小说自动购买、定时抢加倍卡等
 
-
 ✅ 智能AI闲聊：私聊、讨论组、群聊等机器人会智能聊天
 
 ✅ 群管功能：禁言踢出、多类型消息撤回、全员禁言/解禁、监控服务器状态、关键词回复、消息推广等
@@ -67,15 +71,15 @@
 
 ~~🔥 网易云音乐：一键完成网易云每日听歌、 每日签到等操作~~ [此功能已移除，不再维护]
 
-~~🚧 代挂查询：对接爱准挂、我爱代挂，可执行查询dg等操作~~ [功能失效，等待维护]
+~~🚧 代挂查询：对接爱准挂、我爱代挂，可执行查询dg等操作~~  [功能失效，等待维护]
 
-~~🚧 DIY名片：名片二维码、动态名片、静态名片，点赞效果，认证效果，特效效果~~ [功能失效，等待维护]
+~~🚧 DIY名片：名片二维码、动态名片、静态名片，点赞效果，认证效果，特效效果~~  [功能失效，等待维护]
 
 ✅ 网站查询：ping、网站备案等
 
-✅ 二次登录：无需抓包，一键登录燃鹅、萌宠、情侣空间等QQ小程序，方便快捷
+✅ 二次登录：无需抓包，一键登录燃鹅、萌宠、情侣空间，方便快捷
 
-✅ 头像系列：国庆头像、国庆头像2、国庆头像3、国庆头像4、~~🚧透明头像~~ [暂时失效，待维护]
+✅ 头像系列：国庆头像、国庆头像2、国庆头像3、国庆头像4、~~透明头像~~ [暂时失效，待维护]
 
 ✅ 其他功能：点歌、天气、一言、每日必应、买家秀、社会语录、污话连篇等
 
@@ -87,34 +91,44 @@
 
 ✅ 设置登录地：可自定义申请二维码下方的登录地文字，可以随便写，可以把用户注意事项写在这里
 
-🚀更多功能请移步[指令文档](#zlwd)查看
+🚀 更多功能请移步[指令文档](https://www.showdoc.com.cn/god)查看
 
-## 🍰 JKJPRO版本演示截图
+
+## 🎨 JKJAIR演示截图
+
+![JKJAIR](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/airkfb1.PNG)
+![JKJAIR](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/airkfb2.PNG)
+![JKJAIR](https://cdn.jsdelivr.net/gh/LovelyGod3/PicGo/img/airkfb3.PNG)
+
+## 🚧 未来UI主题美化（PRO界面） [目前以实现功能为主]
 
 ![JKJPRO](https://cdn.jsdelivr.net/gh/cheng2924070927/PicGo/img/JKJPROCN2.PNG)
 
+## 🌐 网站
 
-## 🍰 网站
+- [JKJPRO.cn](https://JKJPRO.cn)
 
-- http://JKJPRO.cn
+## 📚 <span id="zlwd">指令文档：</span>
 
-## 🍰 <span id="zlwd">指令文档：</span>
+- [ShowDoc](https://www.showdoc.com.cn/god)
 
-- https://www.showdoc.com.cn/god
+#### 🍭QQ群：[826967547](https://jq.qq.com/?_wv=1027&k=5xYS9qX)
 
-### 🍭QQ群：[826967547](https://jq.qq.com/?_wv=1027&k=5xYS9qX)
+#### 🍭Telegram群：[@lovekme](https://t.me/lovekme)
 
-### 🍭Telegram群：[@lovekme](https://t.me/lovekme)
+## 📂 插件下载
 
-## 🍰 面向用户开发：
+- 注意：付费插件&nbsp;✔️&nbsp;&nbsp;&nbsp;&nbsp;蓝奏云下载：[JKJAIR · 蓝奏云 (蓝奏云官网)](https://wwa.lanzoui.com/b00nf4exa)
 
-> 欢迎所有对编写QQ机器人插件有兴趣的小可爱们参与到JKJ插件的开发当中，小可爱们可以吧自己的想法或自己写的一些小功能加入插件中，成为JKJ插件的一部分，不远的将来，JKJ插件的开发也有您的一份功劳
->> 下方是我们提供的E语言SDK，您可以点击下载
-E语言SDK（自备精E模块8.0.5+）：https://wwa.lanzous.com/iq1oHoom82f
+- 注意：付费插件&nbsp;✔️&nbsp;&nbsp;&nbsp;&nbsp;GitHub下载：[樱花 · GitHub (Sakura)](https://github.com/yh2233)
 
-## 🍰 开发者赞助计划
+## 💰 插件用户赞助计划
 
-> 凡是有兴趣参与、有能力实践JKJ插件开发的小可爱们，如果缺少服务器调试应用，可找我免费领取腾讯云服务器，以表示开发鼓励。
-（服务器是我们无偿提供，只愿您能对JKJ插件做出贡献，单纯白嫖服务器者请绕道）
+> 🎉 即日起，购买JKJ插件的小可爱们，如果缺少服务器，可[找我](https://jq.qq.com/?_wv=1027&k=HOWmKDo7)免费领取，以表示我们对用户的支持。
 
-> Blog [@lovek.me](https://lovek.me) · GitHub [@Lovely God](https://github.com/LovelyGod3) · Twitter [@Lovely God](https://twitter.com/lovelygod3) · Telegram Channel [@Entertainment circle](https://t.me/lovekme)
+> ✨ 服务器由 [希儿博客](https://fenhao.me/) ([希儿云](https://moetmd.com/)) 赞助，免费提供给JKJ插件用户，免费续费，永不过期 ✔️
+## 🌎 GitHub
+
+> [🌸樱花 (Sakura)](https://github.com/yh2233)
+
+> Blog [@lovek.me](https://lovek.me) [@Sakura](https://walitv.cn) · GitHub [🌸樱花 (Sakura)](https://github.com/yh2233) · Twitter [@Lovely God](https://twitter.com/lovelygod3) · Telegram Channel [@Entertainment circle](https://t.me/lovekme)
