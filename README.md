@@ -1,4 +1,4 @@
-<center><h1>JKJAIR / <s>&nbsp;&nbsp;JKJPRO&nbsp;&nbsp;</s></h1></center>
+<h1 align="center">JKJAIR / <s>&nbsp;&nbsp;JKJPRO&nbsp;&nbsp;</s></h1>
 
 > A robot that supports 50+ sign-in service, with one button sign-in and one button adoration, has rich functions
 
