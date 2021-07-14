@@ -1,11 +1,11 @@
 <div align="center">
 <!-- <img width="160" src="https://cdn.jsdelivr.net/gh/mzdluo123/blog_imgs/img/20200531205703.png" style="max-width:100%;"><br> -->
 <!-- <img width="140" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;"> -->
-  <img width="160" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;">
+  <h1><img width="160" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;"></h1>
 </div>
 
 
-<h1>JKJAIR / <s>&nbsp;&nbsp;JKJPRO&nbsp;&nbsp;</s></h1>
+<!-- <h1>JKJAIR / <s>&nbsp;&nbsp;JKJPRO&nbsp;&nbsp;</s></h1> -->
 
 > A robot that supports 50+ sign-in service, with one button sign-in and one button adoration, has rich functions
 
