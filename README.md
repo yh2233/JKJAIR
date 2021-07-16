@@ -1,7 +1,7 @@
 <div align="center">
 <!-- <img width="160" src="https://cdn.jsdelivr.net/gh/mzdluo123/blog_imgs/img/20200531205703.png" style="max-width:100%;"><br> -->
 <!-- <img width="140" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;"> -->
-  <h1><img width="160" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;"></h1>
+  <h1><a href="https://github.com/yh2233/JKJAIR" target="_blank"><img width="160" src="https://cdn.jsdelivr.net/gh/yh2233/PicGo/img/JKJAIRT.png" style="max-width:100%;"></a></h1>
 </div>
 
 
